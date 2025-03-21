@@ -115,13 +115,13 @@
 	spawned_mob = /mob/living/basic/bee
 
 /obj/item/food/monkeycube/horsekk
-	name = "hons cube"
-	desc = "Syndicate Horse! Just add a wa'er"
+	name = "Horse cube"
+	desc = "Horse cube that creates a really healthy and spaceproof horse. Just add some water."
 	bite_consumption = 20
 	food_reagents = list(
 		/datum/reagent/medicine/strange_reagent = 1,
 		/datum/reagent/toxin = 5,
 		/datum/reagent/drug/nicotine = 5,
 	)
-	tastes = list("hons" = 1, "nicotine" = 1)
-	spawned_mob = /mob/living/basic/pony/syndicate
+	tastes = list("hons " = 1, "nicotine" = 1)
+	spawned_mob = /mob/living/basic/pony/cowboy
