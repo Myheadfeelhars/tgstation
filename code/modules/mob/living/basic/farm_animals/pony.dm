@@ -162,7 +162,7 @@
 		COLOR_DARK_BROWN=1,
 	)
 	ponycolors = list("#5d566f", pick_weight(mane_colors))
-	name = pick("Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday")
+	name = pick("S-Horse", "Horsekk", "Plotva")
 	// Only one person can tame these fellas, and they only need one apple
 	var/static/list/food_types = list(/obj/item/food/grown/apple)
 	AddComponent(/datum/component/tameable, food_types = food_types, tame_chance = 100, bonus_tame_chance = 15, unique = unique_tamer)

@@ -25,8 +25,8 @@
 	new /obj/item/storage/crayons(src)
 
 /obj/structure/closet/crate/wooden/horsekk
-	name = "Horsekk crate"
-	desc = "Who is Horsekk...?"
+	name = "Wooden Crate"
+	desc = "Who made this...?"
 
 /obj/structure/closet/crate/wooden/horsekk/PopulateContents()
 	. = ..()
