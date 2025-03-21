@@ -113,3 +113,15 @@
 	)
 	tastes = list("buzzing" = 1, "honey" = 1, "regret" = 1)
 	spawned_mob = /mob/living/basic/bee
+
+/obj/item/food/monkeycube/horsekk
+	name = "hons cube"
+	desc = "Syndicate Horse! Just add a wa'er"
+	bite_consumption = 20
+	food_reagents = list(
+		/datum/reagent/medicine/strange_reagent = 1,
+		/datum/reagent/toxin = 5,
+		/datum/reagent/drug/nicotine = 5,
+	)
+	tastes = list("hons" = 1, "nicotine" = 1)
+	spawned_mob = /mob/living/basic/pony/syndicate
