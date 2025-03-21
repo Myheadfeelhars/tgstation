@@ -893,8 +893,8 @@
 	new /obj/item/lighter(src)
 
 /obj/item/storage/box/syndicate/horsekk
-	name = "boxed Horse kit."
-	desc = "box with a horse cube and an apple."
+	name = "Boxed Horse kit."
+	desc = "Everything you need to form a lifelong bond with a new companion, just add water."
 	icon_state = "syndiebox"
 	illustration = "writing_syndie"
 
