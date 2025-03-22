@@ -115,7 +115,7 @@
 	spawned_mob = /mob/living/basic/bee
 
 /obj/item/food/monkeycube/horsekk
-	name = "Horse cube"
+	name = "horse cube"
 	desc = "Horse cube that creates a really healthy and spaceproof horse. Just add some water."
 	bite_consumption = 20
 	food_reagents = list(
