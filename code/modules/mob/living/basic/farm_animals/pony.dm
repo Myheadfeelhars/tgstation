@@ -181,7 +181,9 @@
 
 /mob/living/basic/pony/cowboy/Initialize(mapload)
 	. = ..()
-	var/mane_colors = list(
+	var/static/list/mane_colors
+	mane_colors ||= list(
+
 		COLOR_RED=6,
 		COLOR_BLUE=6,
 		COLOR_PINK=3,

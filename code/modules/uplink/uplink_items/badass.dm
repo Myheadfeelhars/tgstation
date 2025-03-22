@@ -105,7 +105,7 @@
 	cost = 2
 
 /datum/uplink_item/badass/horsekk
-	name = "Syndicate Horse with an apple"
-	desc = "A very strange item to acquire. This type of pony was created by bioengineers to survive in the space environment, and also this pony has a strong body and skin and can survive some shots from a gun!"
+	name = "Syndicate horse with an apple"
+	desc = "A very strange item to acquire; This type of pony was created by bioengineers to survive in the space environment, and also has a strong body and skin which can survive a few shots from a gun!"
 	item = /obj/item/storage/box/syndicate/horsekk
 	cost = 4
